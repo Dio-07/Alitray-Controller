@@ -1,5 +1,5 @@
 # ALITRAY CONTROLLER
-[Engineering Notebook](https://docs.google.com/document/d/1DgaOxx3pAH2s7LbI0tBG3De_tyFFCP2PG8WL6u0CufI/edit?usp=sharing_)
+[Engineering Notebook](https://drive.google.com/drive/folders/1m8bGWwMpdiL9uz0l-eo00PWUPM0APUVN?usp=drive_link)
 This controller includes 5 main features *most* of which are handled in degrees.
 * movement queuing
 * gear reduction based calculations
